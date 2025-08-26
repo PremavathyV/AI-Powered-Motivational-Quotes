@@ -84,7 +84,7 @@ Includes **daily notifications**, mood-based categories, Tamil language support,
 
 ## 👩‍💻 Author
 
-- **Prema V**  
+- **Premavathy V**  
 - 📧 Email: [vprema376@gmail.com](mailto:vprema376@gmail.com)  
 - 🌐 GitHub: [PremavathyV](https://github.com/PremavathyV)  
 - 💼 LinkedIn:
