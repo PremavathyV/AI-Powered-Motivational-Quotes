@@ -22,7 +22,7 @@ Includes **daily notifications**, mood-based categories, Tamil language support,
 ## 🛠️ Tech Stack
 
 - **Frontend**: React + TypeScript  
-- **Styling**: TailwindCSS  
+- **Styling**: TailwindCSS 
 - **Bundler**: Vite  
 - **Notifications**: Browser Notification API  
 - **Optional AI Integration**: ChatGPT API for fresh daily quotes  
