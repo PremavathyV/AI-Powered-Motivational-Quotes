@@ -11,7 +11,7 @@ Includes **daily notifications**, mood-based categories, Tamil language support,
 - 💬 **Motivational Quotes**: Get 100+ quotes covering success, life, positivity, confidence, and healing.
 - 🗣️ **Tamil Language Support**: Switch between **English / தமிழ்** for quotes. 
 - 🔖 **Action Tips**: Along with each quote, get a small **practical tip** (e.g., "Take a 5-min walk", "Write down your goal"). 
-- ✨ **Daily Quote Notification**: Every morning at 9AM, receive a fresh motivational quote.  
+- ✨ **Daily Quote Notification**: Every morning at 9AM, receive a fresh motivational quote. 
 - ❤️ **Save & Share**: Mark favorites, share quotes on WhatsApp/Instagram/LinkedIn.  
 - 📥 **Download**: Export your favorite quotes as images or posters.  
 - 🎨 **Attractive UI**: Sticky-note style cards, mood-based gradient backgrounds, animations.
