@@ -14,7 +14,7 @@ Includes **daily notifications**, mood-based categories, Tamil language support,
 - ✨ **Daily Quote Notification**: Every morning at 9AM, receive a fresh motivational quote.  
 - ❤️ **Save & Share**: Mark favorites, share quotes on WhatsApp/Instagram/LinkedIn.  
 - 📥 **Download**: Export your favorite quotes as images or posters.  
-- 🎨 **Attractive UI**: Sticky-note style cards, mood-based gradient backgrounds, animations. 
+- 🎨 **Attractive UI**: Sticky-note style cards, mood-based gradient backgrounds, animations.
 - 🌓 **Dark/Light Mode**: Switch themes easily for comfort.  
 
 ---
